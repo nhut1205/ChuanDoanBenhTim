@@ -3,8 +3,8 @@
 
 Đầu tiên cần phải tạo access token Làm theo hướng dẫn sau
 
-**2. Git clone
-**
+2. Git clone
+
 Mở Windows PowerShell hoặc cdm, sau đó paste dòng lệnh sau:
 
 git clone https://access_token@github.com/DinhHoangPhuc/DoAn_Net.git
