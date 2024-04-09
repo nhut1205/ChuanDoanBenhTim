@@ -1,5 +1,5 @@
-****Hướng dẫn clone code
-**1.Tạo access token
+Hướng dẫn clone code
+1.Tạo access token
 
 Đầu tiên cần phải tạo access token Làm theo hướng dẫn sau
 
