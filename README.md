@@ -1,4 +1,5 @@
 Hướng dẫn clone code
+
 1.Tạo access token
 
 Đầu tiên cần phải tạo access token Làm theo hướng dẫn sau
@@ -39,6 +40,6 @@ Bước 1: Commit code
 
 git commit -m "Commit message"
 
-**Bước 2: push code
-**
+Bước 2: push code
+
 git push
